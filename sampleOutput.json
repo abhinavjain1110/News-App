@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lucy Handley",
+            "title": "Davos live updates: Ukraine's Zelenskyy meets with Jamie Dimon and other major investors - CNBC",
+            "description": "Political and business leaders began talks at the 54th Annual Meeting of the World Economic Forum in Davos, Switzerland, on Tuesday.",
+            "url": "https://www.cnbc.com/2024/01/16/davos-live-updates-world-economic-forum-wef-2024.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107359360-1705408833066-gettyimages-1929018173-DAVOS_WEF_2024.jpeg?v=1705408862&w=1920&h=1080",
+            "publishedAt": "2024-01-16T14:03:00Z",
+            "content": "Ukrainian President Volodymyr Zelenskyy met with JPMorgan's management and other international investors in Davos Tuesday.\r\n\"It is important for us to attract private capital to the reconstruction of… [+1415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "JON GAMBRELL",
+            "title": "US military seizes Iranian missile parts bound for Houthi rebels in raid where 2 SEALs went missing - Yahoo News",
+            "description": "U.S. Navy SEALs seized Iranian-made missile parts and other weaponry from a ship bound for Yemen's Houthi rebels in a raid last week that saw two of its...",
+            "url": "https://news.yahoo.com/us-military-seizes-iranian-missile-122330720.html",
+            "urlToImage": "https://media.zenfs.com/en/ap.org/1d19d985be54b0faae123f2ca37e8c6c",
+            "publishedAt": "2024-01-16T13:33:44Z",
+            "content": "JERUSALEM (AP) U.S. Navy SEALs seized Iranian-made missile parts and other weaponry from a ship bound for Yemen's Houthi rebels in a raid last week that saw two of its commandos go missing, the U.S. … [+4154 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JON GAMBRELL",
+            "title": "Malta-flagged bulk carrier hit by missile in the Red Sea as Houthi attacks continue - The Associated Press",
+            "description": "U.S. Navy SEALs seized Iranian-made missile parts and other weaponry from a ship bound for Yemen’s Houthi rebels in a raid last week that saw two of its commandos go missing. That’s according to a U.S. military statement Tuesday. The raid marks the latest sei…",
+            "url": "https://apnews.com/article/yemen-houthi-rebels-missiles-iran-seizure-us-8112fbadd3b0689c71a92890895a9368",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c285235/2147483647/strip/true/crop/4500x2531+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2Fce%2F7a087417460666d88f28ecbefdad%2F177494bb9403449e936fd0e19a039a5d",
+            "publishedAt": "2024-01-16T13:18:45Z",
+            "content": "JERUSALEM (AP) U.S. Navy SEALs seized Iranian-made missile parts and other weaponry from a ship bound for Yemens Houthi rebels in a raid last week that saw two of its commandos go missing, the U.S. m… [+3661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Burger King owner Restaurant Brands buys chain's largest U.S. franchisee - CNBC",
+            "description": "Restaurant Brands International will spend about $1 billion to buy Carrols Restaurant Group, the largest U.S. franchisee of Burger King.",
+            "url": "https://www.cnbc.com/2024/01/16/burger-king-owner-restaurant-brands-buys-carrols-largest-us-franchisee.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107282958-1691439318441-gettyimages-1519968738-1006_32_mx221216006.jpeg?v=1692618000&w=1920&h=1080",
+            "publishedAt": "2024-01-16T13:10:47Z",
+            "content": "Restaurant Brands International is buying Carrols Restaurant Group, the largest Burger King franchisee in the U.S., for about $1 billion in cash.\r\nRestaurant Brands will pay $9.55 per share to acquir… [+2095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Persona 3 Reload: The Final Preview - IGN",
+            "description": "Persona 3 Reload isn't a remake with a few alterations here and there; it's a sincerely thought-through updated game that can seemingly stand on its own two ...",
+            "url": "https://www.youtube.com/watch?v=J6taUGrJT-w",
+            "urlToImage": "https://i.ytimg.com/vi/J6taUGrJT-w/maxresdefault.jpg",
+            "publishedAt": "2024-01-16T13:00:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Elon Musk Wants More Tesla Control, Issues AI/Robotics Threat - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/tesla-stock-elon-musk-issues-ai-threat-if-he-doesnt-have-more-control-at-tesla/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-16T12:57:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Sports Staff",
+            "title": "Baker Mayfield leads Bucs' rout of Eagles to set up 2nd-round matchup with Lions - Yahoo Sports",
+            "description": "The Bucs are coming into this game with great vibes. The Eagles, not so much.",
+            "url": "https://sports.yahoo.com/baker-mayfield-leads-bucs-rout-of-eagles-to-set-up-2nd-round-matchup-with-lions-041859674.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_sjSyS6X9rGU.9Cju9mBhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/64bdbd10-b425-11ee-9e7d-d6752a5c1a58",
+            "publishedAt": "2024-01-16T12:51:21Z",
+            "content": "Baker Mayfield and the Bucs obliterated the Eagles Monday night. (Julio Aguilar/Getty Images)\r\nThe Philadelphia Eagles followed up a trip to the Super Bowl with a 10-1 start that had them in control … [+1702 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam Schefter",
+            "title": "Jason Kelce tells Eagles teammates he's retiring, sources say - ESPN",
+            "description": "Eagles star center Jason Kelce told his teammates in Monday night's postgame locker room that he is retiring, sources told ESPN.",
+            "url": "https://www.espn.com/nfl/story/_/id/39320253/jason-kelce-tells-eagles-teammates-retiring-sources-say",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0116%2Fr1278161_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-01-16T12:46:00Z",
+            "content": "Philadelphia Eagles star center Jason Kelce told his teammates in Monday night's postgame locker room that he is retiring, league sources told ESPN.\r\nKelce, 36, was visibly emotional at the end of th… [+2065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goldmansachs.com"
+            },
+            "author": null,
+            "title": "Goldman Sachs Reports 2023 Full Year and Fourth Quarter Earnings Results - Goldman Sachs",
+            "description": null,
+            "url": "https://www.goldmansachs.com/media-relations/press-releases/2024/2024-01-16-q4-results.html",
+            "urlToImage": "https://www.goldmansachs.com/media-relations/press-releases/multimedia/200w-800X450.jpg",
+            "publishedAt": "2024-01-16T12:33:54Z",
+            "content": "NEW YORK, JANUARY 16, 2024 The Goldman Sachs Group, Inc. (NYSE: GS) today reported net revenues of $46.25 billion and net earnings of $8.52 billion for the year ended December 31, 2023. Net revenues … [+2647 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gretchen Reynolds",
+            "title": "At 93, he's as fit as a 40-year-old. His body offers lessons on aging. - The Washington Post",
+            "description": "The human body maintains the ability to adapt to exercise at any age, showing that it’s never too late to start a fitness program.",
+            "url": "https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NSRF23MAVRJZBUOBDTPR5WPUBI.JPG&w=1440",
+            "publishedAt": "2024-01-16T12:08:23Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nFor lessons on how to age well, we could do worse than turn to Richard Morgan.\r\nAt 93, the Irishman is a four-time world champion in i… [+6153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Steve Kornacki: Support for Trump among Republicans grew after first indictment - MSNBC",
+            "description": "NBC News' Steve Kornacki breaks down the results from the Iowa caucuses, which found former President Trump winning with 51 percent of the vote and Gov. Ron ...",
+            "url": "https://www.youtube.com/watch?v=1zDyz8cw8jQ",
+            "urlToImage": "https://i.ytimg.com/vi/1zDyz8cw8jQ/maxresdefault.jpg",
+            "publishedAt": "2024-01-16T11:51:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Iowa caucuses: DeSantis edges out Haley as both trail Trump in Iowa - BBC.com",
+            "description": "The Florida governor secures a distant second place in the Republican race to be the presidential nominee.",
+            "url": "https://www.bbc.com/news/world-us-canada-67989135",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/481F/production/_132336481_desantis_976getty.jpg",
+            "publishedAt": "2024-01-16T10:41:00Z",
+            "content": "By Mike Wendling, Bernd Debusmann Jr &amp; Holly HonderichBBC News, Iowa\r\nWatch: The Iowa caucuses... a dramatic night in 82 seconds\r\nFlorida Governor Ron DeSantis has snatched second place in Iowa's… [+5779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "US condemns Iran for 'reckless' missile strikes on northern Iraq - BBC.com",
+            "description": "Iran says it launched missiles at Israeli \"spy headquarters\" in the northern Iraqi city of Irbil.",
+            "url": "https://www.bbc.com/news/world-middle-east-67989193",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5D37/production/_132336832_gettyimages-1928404466.jpg",
+            "publishedAt": "2024-01-16T10:02:18Z",
+            "content": "By George Wright &amp; David GrittenBBC News\r\nAuthorities in Iraq's Kurdistan Region said four people were killed in the overnight strikes\r\nThe US has condemned Iran over ballistic missile strikes on… [+6742 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jimmy Vielkind",
+            "title": "New York Plans to Spend Billions More on Migrant Crisis - The Wall Street Journal",
+            "description": "Funding is likely to be welcomed by city officials, who are currently caring for roughly 70,000 migrants",
+            "url": "https://www.wsj.com/us-news/new-york-plans-to-spend-billions-more-on-migrant-crisis-f2499439",
+            "urlToImage": "https://images.wsj.net/im-912494/social",
+            "publishedAt": "2024-01-16T10:00:00Z",
+            "content": "ALBANY, N.Y.New York state officials said they would direct another roughly $2 billion to fund the cost of caring for migrants in New York City, adding to the fiscal toll of a crisis that has overwhe… [+485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Capturing the Evolution of Life on Earth: Key Moment Revealed in Ancient Fossils - SciTechDaily",
+            "description": "A new study precisely dates ancient multicellular fossils, uncovering key moments in Earth's history and the evolution of complex life after a global ice age. Research led by Curtin University has for the first time precisely dated some of the oldest fossils …",
+            "url": "https://scitechdaily.com/capturing-the-evolution-of-life-on-earth-key-moment-revealed-in-ancient-fossils/",
+            "urlToImage": "https://scitechdaily.com/images/Ancient-Fossil-Evolution-Art-Concept.jpg",
+            "publishedAt": "2024-01-16T09:42:45Z",
+            "content": "Researchers have precisely dated ancient multicellular fossils to 565 million years ago, using volcanic ash layers as time markers. These findings, based on fossils from Wales and similar sites world… [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh, Joe Sutton, Robert Shackelford",
+            "title": "Arctic blast is bringing record cold and wind chills that can cause frostbite in minutes as snow moves into Northeast - CNN",
+            "description": "A brutal Arctic blast is bringing record-low temperatures and life-threatening wind chills across a large swath of the United States.",
+            "url": "https://www.cnn.com/2024/01/16/weather/winter-storm-snow-northeast-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240116114335-12-severe-weather-iowa-0115.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-16T09:42:00Z",
+            "content": "A brutal Arctic blast is bringing record-low temperatures and life-threatening wind chills across a large swath of the United States as snow and ice spread from the South to New England and a new sto… [+5848 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "BILL BARROW",
+            "title": "Vivek Ramaswamy suspends his 2024 Republican presidential bid and endorses rival Donald Trump - The Associated Press",
+            "description": "Biotech entrepreneur Vivek Ramaswamy is suspending his 2024 Republican presidential campaign and endorsing former President Donald Trump. His exit comes after finishing a distant fourth in Iowa's caucuses, behind Trump, Florida Gov. Ron DeSantis and former U.…",
+            "url": "https://apnews.com/article/vivek-ramaswamy-ends-2024-presidential-campaign-4b794ed3fbb41cc7f2a6a95d20458843",
+            "urlToImage": "https://dims.apnews.com/dims4/default/297c0b4/2147483647/strip/true/crop/5327x2996+0+277/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2Fb8%2Fd62242ce607d91c4413c1a30e504%2F79ac73223e534ea888d05d72293fe64a",
+            "publishedAt": "2024-01-16T09:19:00Z",
+            "content": "Biotech entrepreneur Vivek Ramaswamy suspended his bid for the 2024 Republican presidential nomination on Monday and endorsed former President Donald Trump after finishing a distant fourth in Iowas l… [+4567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "GeForce RTX 4060 series has dethroned RTX 3060 series in the DIY Korean market - VideoCardz.com",
+            "description": "GeForce RTX 4060 (Ti) now more popular than RTX 30 series According to research by Danawa, a popular price aggregation service in South Korea, the RTX 3060 series has seen a large decline in sales, now making up a combined 13% of the market sales. Typically f…",
+            "url": "https://videocardz.com/newz/geforce-rtx-4060-series-dethrone-rtx-3060-series-in-the-diy-korean-market",
+            "urlToImage": "https://cdn.videocardz.com/1/2024/01/RTX-4060-CROWN-HERO-BANNER.jpg",
+            "publishedAt": "2024-01-16T08:53:00Z",
+            "content": "According to research by Danawa, a popular price aggregation service in South Korea, the RTX 3060 series has seen a large decline in sales, now making up a combined 13% of the market sales. Typically… [+2303 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Asif Iqbal Shaik",
+            "title": "Retailer spotted selling Galaxy S24 even before announcement - SamMobile - Samsung news",
+            "description": "The Galaxy S24 is getting official tomorrow at the Galaxy Unpacked 2024 event. And the company is already taking reservations ...",
+            "url": "https://www.sammobile.com/news/mexico-retailer-selling-galaxy-s24-before-announcement/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/12/Samsung-Galaxy-S24-Purple-720x405.jpg",
+            "publishedAt": "2024-01-16T07:32:00Z",
+            "content": "The Galaxy S24 is getting official tomorrow at the Galaxy Unpacked 2024 event. And the company is already taking reservations for its upcoming flagship smartphone series and offering a $50 credit for… [+2166 chars]"
+        }
+    ]
+}
